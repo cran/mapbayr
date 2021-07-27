@@ -1,6 +1,6 @@
 Package: mapbayr
 Title: MAP-Bayesian Estimation of PK Parameters
-Version: 0.4.1
+Version: 0.5.0
 Authors@R: 
     person(given = "Felicien",
            family = "Le Louedec",
@@ -17,9 +17,9 @@ URL: https://github.com/FelicienLL/mapbayr
 BugReports: https://github.com/FelicienLL/mapbayr/issues
 Suggests: knitr
 NeedsCompilation: no
-Packaged: 2021-04-29 17:11:44 UTC; le_louedec
+Packaged: 2021-07-27 11:28:32 UTC; le_louedec
 Author: Felicien Le Louedec [aut, cre]
     (<https://orcid.org/0000-0003-3699-2729>)
 Maintainer: Felicien Le Louedec <lelouedec.felicien@iuct-oncopole.fr>
 Repository: CRAN
-Date/Publication: 2021-04-30 12:20:03 UTC
+Date/Publication: 2021-07-27 11:40:02 UTC
