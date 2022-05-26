@@ -1,8 +1,8 @@
-102bd7566ad87cdb27e7bdb4b909913d *DESCRIPTION
+99b94bfcb56838d145258ac0c6fbb134 *DESCRIPTION
 92cc470287931c71c62da9456c123e99 *NAMESPACE
-48a2c0c6cd3eb5c8dc623f309569451d *NEWS.md
+312b8cf21f2da03bcfb965b1f309e6b3 *NEWS.md
 dee22c0c196df9cf18b91349f8b1ca21 *R/data.R
-6ca9b145d56f820a21ecfaa5edf6c2f7 *R/exmodel.R
+a6f0fee4e7d82759c3efa32b52711dfc *R/exmodel.R
 92d20c1d9e1d90f3cb10ab5fce1bc4b0 *R/get.R
 8f6cfc0b00b20ceb4a1bf0689d35fa9c *R/mapbayest.R
 5b2db6e5ac69593471510a7244fbacbb *R/mapbayest_check_and_preprocess.R
@@ -17,7 +17,7 @@ e43f0faad180d2f4cbfef2f478ae2498 *R/vs_nonmem.R
 e60c8c3042a19624b6461380dcc1cc65 *R/zzz_utils.R
 378c90ff95f0f34d9cdeca5ce5d59abd *README.md
 c7a475e3a36c9cefe3ef1b2162b8dd7b *data/est001.rda
-4f5426bfa650e85b79ead5394e74ddca *inst/WORDLIST
+fae77cce141c67cabfb2cc7649a39eb6 *inst/WORDLIST
 310143eb663829ab3f036de386ce5aed *inst/exmodel/data_to_fit001.csv
 814bf228024d52fee72d9be0261c0927 *inst/exmodel/data_to_fit006.csv
 3d471661e90468bdfde036d28d977745 *inst/exmodel/data_to_fit301.csv
@@ -40,7 +40,7 @@ f472f1a3e3df67ba3e0b8e43ef5b29a0 *man/augment.Rd
 0b6f6888894f38271e08880ccee3b0fb *man/est001.Rd
 8848a233f80363aa8e33617b950d247b *man/exmodel_exdata.Rd
 f09221bb0f34163443f38a0d28c38481 *man/get_x.Rd
-23a616ab2ebead0f09866a73f618e8d0 *man/h.Rd
+ef5172770c9a134a8552e00c8ac0fddd *man/h.Rd
 6bc461819ed096a90715aa99c313d9b6 *man/hist.mapbayests.Rd
 912bef0dd5cd56db9020d9f658c07b28 *man/mapbayest.Rd
 a3a9087f071181bfa93878e0443f77f4 *man/obs_cmt.Rd
@@ -57,12 +57,12 @@ fe0dae239906fe2c987f48ba4e96b6e5 *man/vs_nonmem.Rd
 7395b63e820179902fbfe2dd3ec916b0 *tests/testthat/test-annotated.R
 3cb34f752a248a7126fa285fe43baa5e *tests/testthat/test-augment.R
 d2077c7215646d92854972baaf7749b0 *tests/testthat/test-compute_ofv.R
-650726e5462ee9c321f17b5f18c27692 *tests/testthat/test-covariance.R
+70d247d9aab8a81e81b3848b01d90d98 *tests/testthat/test-covariance.R
 747b2f1b89abfb568707d09befd75413 *tests/testthat/test-evid_egal_2.R
 7e6dd355e896fe3c0e607e6f668430e2 *tests/testthat/test-exmodels.R
 2f0cc581fb6a87db49b0a47cf7adfb4a *tests/testthat/test-get_data.R
 a083f38fa708a50b24386d57bc362a4b *tests/testthat/test-get_eta.R
-69b2bdc26c3d129c110216c606d21915 *tests/testthat/test-get_param.R
+0d84c1afdb284ec0ad949cdd85c39453 *tests/testthat/test-get_param.R
 831465103c8e4a24dc9335896af10295 *tests/testthat/test-get_phi.R
 a7b02f4b0b5a625755f8b6cf319fc3bd *tests/testthat/test-hist.R
 e5a8b43ac2d404968cf6834fceb55a93 *tests/testthat/test-mbrest.R
