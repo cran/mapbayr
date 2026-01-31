@@ -1,6 +1,6 @@
-3eda3e397b807503f81fca244460396a *DESCRIPTION
+7dbf1fc89722f9f514e30e6ad7d75fe4 *DESCRIPTION
 20fcb0ac701c7ceb50fef7c585497530 *NAMESPACE
-c500092469b3b909787ae70306ccdb75 *NEWS.md
+051bd7be1d000c26411f4e70b8ae55d0 *NEWS.md
 0c8f8b5e7dc3101a836a275b062c3e5b *R/augment.R
 127b75895dc97fb4152a9da8d04f6ff5 *R/data.R
 da6b6d8f00c05813adc6c9d4c4ab7ec2 *R/data_helpers.R
@@ -15,7 +15,7 @@ c26e8b58d63421608ed19ca6210a2883 *R/mapbayest_optimization.R
 00e35e4f4ae3eedb6c86d5734193ad84 *R/mapbayest_postprocess.R
 981fb13c6d98182ca0979d28b60a64f7 *R/mapbayests.R
 84724ceed9d5434b1c6d3f5f58e5a1aa *R/merge.R
-7b2a4fa24046c6bc34d30b4018e3db6e *R/modelaveraging.R
+0109d521d937d805c8d1c4e9cb92514c *R/modelaveraging.R
 a49000a38167c31b0d1a0616b7ac7193 *R/pcvpc.R
 399320c2ecb3f998ef9873946956c43b *R/plot.R
 adf55dee0de98dc67b0e5ded998dd7aa *R/read_mrgsolve_model.R
@@ -24,7 +24,7 @@ adf55dee0de98dc67b0e5ded998dd7aa *R/read_mrgsolve_model.R
 c0b8b0f0a412f7097d4e9ec663912b3c *R/vs_nonmem.R
 5f06f69d697d5c5bf1538aa5429bfb1a *R/zzz_utils.R
 e1223b45a4b0e5e9fa4391c35b6ea3fe *README.md
-ea124a494ad7922985532ad3b308e4d5 *build/partial.rdb
+4454e632feb75ce4f508807d50b3b12f *build/partial.rdb
 91da933a931dfa17547827ec3da8023f *data/est001.rda
 26f0cf1319b121e4a8b89cb23b3af044 *inst/WORDLIST
 f12e7570e4c4fcdd1ee28b9723ba8dd1 *inst/exmodel/data_to_fit001.csv
